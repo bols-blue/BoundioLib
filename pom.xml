@@ -7,7 +7,7 @@
 	<packaging>pom</packaging>
 	<name>boundio</name>
 	<modules>
-		<module>boundio_lib</module>
+		<module>boundio4j</module>
 	</modules>
 	<repositories>
 		<repository>
